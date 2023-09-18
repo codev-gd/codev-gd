@@ -16,6 +16,11 @@ I am a systems engineer, I passionate software development and cloud technologie
 
 &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)
 
+
+### Mis últimos repos
+
+ssss [sssss](https://github.com/codev-gd/pract-next-all-things)
+
 <!-- :bar_chart: GitHub stats
 
 ![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=codev-gd&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) -->
